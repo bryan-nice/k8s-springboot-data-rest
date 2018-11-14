@@ -1,1 +1,1 @@
-curl -i -X GET http://52.168.95.200/orders
+curl -i -X GET http://40.78.48.34/orders
